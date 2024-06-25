@@ -31,17 +31,17 @@
       "text": "<p>You can have lists like this</p> <ul> <li>first</li> <li>second</li> <li>third</li> </ul> <p>Or checklist lists to</p> <ul> <li> Get</li> <li> things</li> <li> done</li> </ul> <p>Also, get highlights and strikethroughs as above (similar to Obsidian).</p> <p>More formatting options for your webpage here. (but not compatible with Obsidian)</p>"
     },
     {
-      "location": "Courses%201/Note%201/",
+      "location": "Topic%201/Note%201/",
       "title": "Note 1",
       "text": "<p>Example: link to Mermaid Diagrams under <code>Features</code></p>"
     },
     {
-      "location": "Courses%201/Note%202/",
+      "location": "Topic%201/Note%202/",
       "title": "Note 2",
       "text": ""
     },
     {
-      "location": "Blog/",
+      "location": "blog/",
       "title": "Blog",
       "text": ""
     }
